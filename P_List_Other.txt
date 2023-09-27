@@ -111,6 +111,7 @@ DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,rent.men
 DOMAIN-SUFFIX,safety.google
+DOMAIN-SUFFIX,samsung.com
 DOMAIN-SUFFIX,shopifycdn.com
 DOMAIN-SUFFIX,shopifycdn.net
 DOMAIN-SUFFIX,shopifycloud.com
