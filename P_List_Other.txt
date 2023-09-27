@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,axelabysse.com
 DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,banzhu123.net
 DOMAIN-SUFFIX,bit.ly
-DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,bwh88.net
