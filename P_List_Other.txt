@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,google.co.jp
 DOMAIN-SUFFIX,google.co.kr
