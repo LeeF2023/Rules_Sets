@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,faster.buzz
 DOMAIN-SUFFIX,fastmail.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,galaxyappstore.com
 DOMAIN-SUFFIX,gaydemon.com
 DOMAIN-SUFFIX,gaypad.net
 DOMAIN-SUFFIX,ggpht.com
@@ -112,6 +113,9 @@ DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,rent.men
 DOMAIN-SUFFIX,safety.google
 DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,samsungapps.com
+DOMAIN-SUFFIX,samsungcloud.com
+DOMAIN-SUFFIX,samsungosp.com
 DOMAIN-SUFFIX,shopifycdn.com
 DOMAIN-SUFFIX,shopifycdn.net
 DOMAIN-SUFFIX,shopifycloud.com
