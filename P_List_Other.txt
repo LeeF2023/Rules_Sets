@@ -53,6 +53,8 @@ DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,hostloc.com
