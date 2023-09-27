@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdn.jwplayer.com
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,cloudinary.com
+DOMAIN-SUFFIX,connectivity.samsung.com.cn
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,doubleclick.net
