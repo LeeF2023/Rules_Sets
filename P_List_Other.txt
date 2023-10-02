@@ -94,6 +94,7 @@ DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,open-gpt.app
 DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,ouonet.work
 DOMAIN-SUFFIX,oxballs.com
 DOMAIN-SUFFIX,peing.net
 DOMAIN-SUFFIX,ping.pe
