@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,agoda.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amytele.net
 DOMAIN-SUFFIX,archive.md
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,archive.ph
