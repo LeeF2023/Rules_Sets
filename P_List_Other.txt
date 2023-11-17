@@ -1,6 +1,9 @@
 DOMAIN-SUFFIX,23usp.com
 DOMAIN-SUFFIX,91porny.com
 DOMAIN-SUFFIX,a2z.com
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobelogin.com
 DOMAIN-SUFFIX,agoda.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazon.com
@@ -145,6 +148,7 @@ DOMAIN-SUFFIX,toppedtoys.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,urbandictionary.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2fly.org
