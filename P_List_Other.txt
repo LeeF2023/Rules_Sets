@@ -156,6 +156,8 @@ DOMAIN-SUFFIX,vps.hosting
 DOMAIN-SUFFIX,v.ps
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,withgoogle.com
+DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,xingyanews.com
 DOMAIN-SUFFIX,xtom.chat
 DOMAIN-SUFFIX,xungyanews.com
