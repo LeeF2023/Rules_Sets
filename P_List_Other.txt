@@ -87,6 +87,7 @@ DOMAIN-SUFFIX,misterb.com
 DOMAIN-SUFFIX,mrhankeystoys.com
 DOMAIN-SUFFIX,mr-s-leather.com
 DOMAIN-SUFFIX,mylittlefistingblog.com
+DOMAIN-SUFFIX,naranja.tech
 DOMAIN-SUFFIX,naver.jp
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,nintendo.com
@@ -94,6 +95,7 @@ DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nnc.sh
 DOMAIN-SUFFIX,nnr.moe
 DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,openai.com
