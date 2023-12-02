@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,cloudinary.com
 DOMAIN-SUFFIX,connectivity.samsung.com.cn
 DOMAIN-SUFFIX,crisp.chat
 DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropbox.com
@@ -57,6 +58,7 @@ DOMAIN-SUFFIX,google.co.kr
 DOMAIN-SUFFIX,google.com.hk
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,gravatar.com
