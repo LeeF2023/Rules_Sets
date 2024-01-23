@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,faster.buzz
 DOMAIN-SUFFIX,fastmail.com
+DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,galaxyappstore.com
@@ -148,9 +149,10 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,swrve.com
 DOMAIN-SUFFIX,tagss.pro
 DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,toppedtoys.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,twimg.com
@@ -165,6 +167,7 @@ DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,wordpress.com
 DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,xingyanews.com
 DOMAIN-SUFFIX,xtom.chat
 DOMAIN-SUFFIX,xungyanews.com
