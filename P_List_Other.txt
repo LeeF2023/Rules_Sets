@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,bwh88.net
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdn.jwplayer.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,cloudinary.com
 DOMAIN-SUFFIX,connectivity.samsung.com.cn
@@ -51,6 +52,7 @@ DOMAIN-SUFFIX,gaypad.net
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,google.co.jp
 DOMAIN-SUFFIX,google.co.kr
