@@ -173,6 +173,7 @@ DOMAIN-SUFFIX,wordpress.com
 DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,xingyanews.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,xtom.chat
 DOMAIN-SUFFIX,xungyanews.com
 DOMAIN-SUFFIX,xvid.com
