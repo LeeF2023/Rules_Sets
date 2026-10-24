@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,api-flowercloud.com
 DOMAIN-SUFFIX,adtrafficquality.google
 DOMAIN-SUFFIX,dmit.io
