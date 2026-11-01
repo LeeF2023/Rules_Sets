@@ -31,7 +31,6 @@ DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,bwh88.net
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdn.jwplayer.com
-DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,cloudcone.com
 DOMAIN-SUFFIX,cloudinary.com
 DOMAIN-SUFFIX,connectivity.samsung.com.cn
@@ -115,8 +114,6 @@ DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,nssurge.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,open-gpt.app
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,ouonet.work
 DOMAIN-SUFFIX,oxballs.com
