@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMIAN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,us-central1.run.app
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,google.fastly-edge.com
